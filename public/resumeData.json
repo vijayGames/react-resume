@@ -1,0 +1,226 @@
+{
+  "main": {
+    "name":"Vijay Singh",
+    "occupation":"Technical Lead",
+    "description":"(React Native, ReactJs, Redux, Typescript, Javascript, PixiJs, Phaser, HTML5) with problem solving and team managment skill",
+    "image":"profilepic.jpg",
+    "bio":"Technical Lead with extensive IT industry (Mobile, Gaming , Web , E-learning, and Banner) experience with B.Tech. Proven expertise in Mobile, Web and casino slot games development while leading the team of developers. worked for multinational clients like Skywind, Poker star, Playtech, Chrysler and Yahoo. I have extensive experience in the 'Team Management' handling multiple projects at the same time with team and communication with clients directly. Efficient in project planning, problem solving, solution providing and executing complete project from scratch to final release. I have a high sense of personal responsibility and ownership for projects under my command. I am an effective communicator, quick learner different technology, a person with exceptional technical skills and hands on experience in various projects. Areas of Interest: Mobile Applications Development, Front end development, Casino Games and startups",
+    "contactmessage":"Do you have an Idea which you want to bring in the real world? write here to discuss How I can help you to bring that in real world.",
+    "email": "talk.vijay@gmail.com",
+    "phone": "09871360253",
+    "address":{
+      "street":"Mandoli Extension",
+      "city":"Delhi",
+      "state":"Delhi",
+      "zip": "110093"
+    },
+    "website": "https://ancient-scrubland-57648.herokuapp.com/",
+    "resumedownload":"https://mail.google.com/mail/u/1?ui=2&ik=6caaf459d5&attid=0.1&permmsgid=msg-a:r7342860404800424416&th=16bb178ecbeb244b&view=att&disp=safe&realattid=f_jxlflp7h0",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/vijay.s.rathore.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/vijay_Rathore24",
+        "className":"fa fa-twitter"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vijay-singh-35447212/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/vijayGames",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://secure.skype.com/portal/profile",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I have expertise in the Mobile, Web and Game development using the cutting edge HTML 5 Technologie HTML-5, Typescript, ReactJs, React Native, FlexBox, Bootstrap 3, CSS",
+    "education":[
+      {
+        "school":"CDAC Noida",
+        "degree":"Advance Web Application Development",
+        "Certification In":"June 2006",
+        "description":""
+      },
+      {
+        "school":"Krishna Engineering College",
+        "degree":"B.Tech (Computer Science and Engineering)",
+        "graduated":"June 2008",
+        "description":"Gradudated in Computer science and engineering, created projects in Web and Mobile application Development skill set earned (C, Core Java, JavaScript, Html 5)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Sristi Productions (https://www.sristiproductions.in)",
+        "title":"Technical Lead",
+        "years":"Jan 2019 - Present",
+        "description":"I am responsible to provide the end to end product development solution to our clients. using the cutting edge HTML 5 Technology"
+      },
+      {
+        "company":"Ingenuity Gaming India Pvt Ltd (http://ingenuitygaming.com/)",
+        "title":"Associate Tech Lead",
+        "years":"May 2015 - Jan 2019",
+        "description":"Game Development, actively developing the individual games while leading the team of game developers to complete their game on time by providing the technical support."
+      },
+      {
+        "company":"Mobisoft Technologies",
+        "title":"Manager Software Development",
+        "years":"Sep 2012 - May 2015",
+        "description":"Leading the team of mobile application developers, web developers, graphics designer, tester and graphics designer to achieve the organization goals."
+      },
+      {
+        "company":"Interactive Developer",
+        "title":"Sapient",
+        "years":"Mar 2011 - Aug 2012",
+        "description":"Designing and development of Interactive Applications."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Typescript",
+        "level":"85%"
+      },
+      {
+        "name":"React Native",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"60%"
+      },
+      {
+        "name":"JIRA",
+        "level":"60%"
+      },
+      {
+        "name":"GitHub",
+        "level":"60%"
+      },
+      {
+        "name":"Webpack",
+        "level":"60%"
+      },
+      {
+        "name":"Phaser",
+        "level":"60%"
+      },
+      {
+        "name":"PixiJs",
+        "level":"60%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"Core Java",
+        "level":"60%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+         "title":"React Native App Game Portfolio 'username: vijay , password: 123456'",
+        "category":"Branding",
+        "image":"reactNativeGamePortfolio.jpg",
+        "url":"https://drive.google.com/file/d/1CzSNFIyHLFUSEZ9RUtt43peW2pczJf-Y/view?usp=sharing"
+      },
+
+
+      
+      {
+         "title":"React Resume Website",
+        "category":"Branding",
+        "image":"resumeVijay.jpg",
+        "url":"https://ancient-scrubland-57648.herokuapp.com/"
+      },
+      {
+        "title":"Dragon Richces",
+        "category":"Game Development",
+        "image":"dragonRiches.jpg",
+        "url":"http://gc.gaming.skywindgroup.com/dragonriches/initial/54/index.html"
+      },
+      {
+        "title":"Meta Mucil",
+        "category":"Client ReactJs Website Development",
+        "image":"metaMucil.jpg",
+        "url":"https://www.metamucil.ca/en-ca"
+      },
+      {
+        "title":"The Reel Macau",
+        "category":"Game Development",
+        "image":"reelMacau.jpg",
+        "url":"http://gc.gaming.skywindgroup.com/thereelmacau/develop/5/index.html"
+      },
+      {
+        "title":"Heavenly Ruler",
+        "category":"Game Development",
+        "image":"heavenlyRuler.jpg",
+        "url":"http://gc.gaming.skywindgroup.com/heavenlyruler/develop/22/index.html"
+      },
+      {
+        "title":"Butterfly Moon",
+        "category":"Game Development",
+        "image":"butterFlyMoon.jpg",
+        "url":"http://gc.gaming.skywindgroup.com/butterflymoon/develop/19/index.html"
+      }
+      ,
+      {
+        "title":"Field Force Tracker",
+        "category":"Business to Business Application",
+        "image":"filedForce.jpg",
+        "url":"https://www.amazon.com/Mobipixie-Field-Force-Tracker/dp/B010FM0HXM/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1435581187&sr=1-1&keywords=field+force+tracker"
+      }
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Vijay is wonderful to work with, and has exceptional expertise in gaming product development, team handling, client communication and he is a source of motivation for the entire team. He consistently demonstrated solid work ethics and a great dedication to success. Vijay is dedicated, self-motivated, methodical, and very capable technical person. He is not only a reliable and forward thinking leader. but also an inspiring team player. For many problems he came up with out of the box solutions.",
+        "user":"Jaydeep Chakravartty (Vice President Commercial at NEKTAN PLC)"
+      },
+      {
+        "text":"Vijay is technically very sound. He has got an excellent command in games development, He has solid problem solving capabilities, his focus keeps everything moving smoothly, and makes sure that whatever assignment he is working on meets the highest standards. It's a pleasure and an honor to recommend you to others as a consummate and dedicated professional...!!",
+        "user":"Ankush Sehgal (Project Manager at Ingenuity Gaming Pvt Ltd)"
+      }
+    ]
+  }
+}
